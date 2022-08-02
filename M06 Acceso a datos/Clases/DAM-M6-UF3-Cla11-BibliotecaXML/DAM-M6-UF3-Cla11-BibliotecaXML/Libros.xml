@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Base de datos de libros Tecnicos-->
+<Libros>
+    <Libro>
+    	<Titulo>Inside Microsoft SQL Server 2000</Titulo>
+        <Autor>Delaney, Kalen</Autor>
+        <Npags>150</Npags>        
+    </Libro>
+    <Libro>
+        <Titulo>.NET Common Language Runtime</Titulo>
+        <Autor>Burton, Kevin</Autor>
+        <Npags>25</Npags>
+    </Libro>
+    <Libro>
+    	<Titulo>C# Design Patterns</Titulo>
+        <Autor>Cooper, James W.</Autor>
+        <Npags>518</Npags>
+    </Libro>
+</Libros>
