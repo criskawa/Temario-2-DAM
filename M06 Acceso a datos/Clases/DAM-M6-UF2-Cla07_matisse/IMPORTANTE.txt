@@ -1,0 +1,1 @@
+Copiar archivos matisseJAVA.dll y matisseJAVA.lib a la carpeta root del proyecto del NetBeans!!
