@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!ELEMENT incidencia (fecha, origen, destino, detalle, tipo)>
+<!ELEMENT fecha (#PCDATA)>
+<!ELEMENT origen (#PCDATA)>
+<!ELEMENT destino (#PCDATA)>
+<!ELEMENT detalle (#PCDATA)>
+<!ELEMENT tipo (#PCDATA)>

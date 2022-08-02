@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns="http://www.w3.org/2001/XMLSchema"
+	targetNamespace="http://www.example.org/incidencias"
+	xmlns:xs="http://www.w3.org/2001/XMLSchema"
+	elementFormDefault="qualified">
+	<xs:element name="incidencias">
+		<xs:complexType>
+			<xs:choice maxOccurs="unbounded">
+				<xs:element name="incidencia" minOccurs="0" maxOccurs="unbounded">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element name="origen" type="string"/>
+							<xs:element name="destino" type="string"/>
+							<xs:element name="detalle" type="string"/>
+							<xs:element name="tipo">
+								<xs:simpleType>
+									<xs:restriction base="string">
+										<xs:enumeration value="Urgente" />
+										<xs:enumeration value="Nomal" />
+									</xs:restriction>
+								</xs:simpleType>
+							</xs:element>
+						</xs:sequence>
+						<xs:attribute type="xs:string" name="fechahora" use="required"/>
+					</xs:complexType>
+				</xs:element>
+			</xs:choice>
+		</xs:complexType>
+	</xs:element>
+</xs:schema>

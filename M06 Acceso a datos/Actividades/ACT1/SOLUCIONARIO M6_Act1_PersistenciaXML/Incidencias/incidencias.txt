@@ -1,0 +1,15 @@
+% 2019-09-21 15:27:14 agonzalez jramirez
+La impresora no tiene tóner.
+Urgente
+% 2019-09-22 10:28:37 jramirez afernandez
+No se ha entregado la documentación del expediente EXP324.
+Normal
+% 2019-09-22 16:28:45 smartinez jramirez
+No quedan folios.
+Normal
+% 2019-09-23 11:03:05 smartinez lsuarez
+El ordenador de recepción no funciona.
+Urgente
+% 2019-09-28 13:11:29 jramirez lsuarez
+Mi portátil no puede acceder a la wifi.
+Normal
