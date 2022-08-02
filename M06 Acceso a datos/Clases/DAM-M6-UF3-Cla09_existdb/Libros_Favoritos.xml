@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Base de datos de libros favoritos pero con estructura diferente -->
+<Favoritos>
+    <Libro paginas="50">
+        <Autor>Nikolai Gogol</Autor>
+        <Titulo>El Capote</Titulo>
+    
+    </Libro>
+    <Libro paginas="730">
+        <Autor>Gonzalo Giner</Autor>
+        <Titulo>El Sanador de Caballos</Titulo>
+        
+    </Libro>
+    <Libro paginas="450">
+        <Autor>Umberto Eco</Autor>
+  	<Titulo>El Nombre de la Rosa</Titulo>
+    </Libro>
+</Favoritos>

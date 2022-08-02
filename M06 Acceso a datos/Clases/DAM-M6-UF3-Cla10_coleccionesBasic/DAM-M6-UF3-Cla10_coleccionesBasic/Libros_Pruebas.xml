@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Base de datos de libros en Castellano -->
+<Libros>
+    <Libro>
+        <Autor>AAA</Autor>
+        <Titulo>AAA</Titulo>
+        
+    </Libro>
+    <Libro>
+        <Autor>BBB</Autor>
+        <Titulo>BBB</Titulo>
+        
+    </Libro>
+    <Libro>
+	<Autor>CCC</Autor>
+        <Titulo>CCC</Titulo>
+    </Libro>
+</Libros>

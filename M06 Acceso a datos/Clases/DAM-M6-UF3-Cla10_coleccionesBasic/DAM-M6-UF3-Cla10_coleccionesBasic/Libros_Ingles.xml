@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Base de datos de libros en Ingles-->
+<Libros>
+    <Libro>
+        <Autor>Emma Donoghue</Autor>
+        <Titulo>Room</Titulo>
+        
+    </Libro>
+    <Libro>
+        <Autor>Keigo Higashino</Autor>
+        <Titulo>The Devotion of Suspect X </Titulo>
+        
+    </Libro>
+    <Libro>
+        <Autor>Haruki Murakami</Autor>
+	<Titulo>Norwegian Wood</Titulo>
+    </Libro>
+</Libros>

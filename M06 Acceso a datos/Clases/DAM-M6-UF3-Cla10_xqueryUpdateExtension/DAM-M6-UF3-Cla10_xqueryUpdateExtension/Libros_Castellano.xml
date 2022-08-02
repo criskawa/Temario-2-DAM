@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Base de datos de libros en Castellano -->
+<Libros>
+    <Libro>
+        <Autor>Nikolai Gogol</Autor>
+        <Titulo>El Capote</Titulo>
+        
+    </Libro>
+    <Libro>
+        <Autor>Gonzalo Giner</Autor>
+        <Titulo>El Sanador de Caballos</Titulo>
+        
+    </Libro>
+    <Libro>
+	<Autor>Umberto Eco</Autor>
+        <Titulo>El Nombre de la Rosa</Titulo>
+    </Libro>
+</Libros>
